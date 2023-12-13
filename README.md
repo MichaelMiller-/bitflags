@@ -1,6 +1,6 @@
 # bitflags
 
-[![Clang](https://github.com/MichaelMiller-/bitfield/actions/workflows/clang.yml/badge.svg)](https://github.com/MichaelMiller-/bitfield/actions/workflows/clang.yml) [![GCC](https://github.com/MichaelMiller-/bitfield/actions/workflows/gcc.yml/badge.svg)](https://github.com/MichaelMiller-/bitfield/actions/workflows/gcc.yml) [![MSVC](https://github.com/MichaelMiller-/bitfield/actions/workflows/msvc2019.yml/badge.svg)](https://github.com/MichaelMiller-/bitfield/actions/workflows/msvc2019.yml)
+[![Clang](https://github.com/MichaelMiller-/bitflags/actions/workflows/clang.yml/badge.svg)](https://github.com/MichaelMiller-/bitflags/actions/workflows/clang.yml) [![GCC](https://github.com/MichaelMiller-/bitflags/actions/workflows/gcc.yml/badge.svg)](https://github.com/MichaelMiller-/bitflags/actions/workflows/gcc.yml) [![MSVC](https://github.com/MichaelMiller-/bitflags/actions/workflows/msvc2019.yml/badge.svg)](https://github.com/MichaelMiller-/bitflags/actions/workflows/msvc2019.yml)
 Note: currently no released compiler supports reflections
 
 **bitflags** is a small header-only library that allows you to create bit flags from enumerations. In contrast to many other approaches
