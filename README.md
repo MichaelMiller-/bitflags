@@ -13,7 +13,7 @@ do not have to be multiples of 2, but can be freely selected and macros are not 
 ## Example
 
 Live Example
-https://godbolt.org/z/hWxP6bh1Y
+https://godbolt.org/z/7EbGW1oP5
 
 ```c++
 #include <bitflags/bitflags.h>
