@@ -44,7 +44,7 @@ auto usage(bitflags::bitflags<Flags> flags) {
 }
 
 int main() {
-    using bitflags::operator|; // or using namespace bitfield;
+    using bitflags::operator|; // or using namespace bitflags;
     usage(Flags::Flag1 | Flags::Flag2 | Flags::Flag5);
     return 0;
 }
