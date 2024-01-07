@@ -21,7 +21,7 @@ struct constant_and_index {
 
 template <typename T>
   requires std::is_enum_v<T>
-struct bitflags {
+class bitflags {
   using reflection_t = reflexpr(T);
   using enumerators_t =
       std::experimental::reflect::get_enumerators_t<reflection_t>;
